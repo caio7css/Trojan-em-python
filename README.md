@@ -1,7 +1,7 @@
-## ⚠️ Disclaimer
+## ⚠️ ATENÇÃO
 
-Este código é fornecido exclusivamente para fins educacionais.
-O autor não se responsabiliza por qualquer uso indevido.
+Fiz esse código puramente para fins educacionais e de prática ao estudo.
+Não me responsabilizo por quaisquer usos indevidos.
 ---
 
 # 🛡️ Reverse Shell em Python (Projeto Educacional de Cibersegurança)
